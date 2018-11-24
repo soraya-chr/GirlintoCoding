@@ -1,0 +1,41 @@
+body{
+  font-size: 16px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+
+}
+
+
+#title{
+  color: white;
+  font-size: 40px;
+  font-family: 'Merienda', cursive;
+  text-align: center;
+}
+
+.navigation1 {
+  text-decoration-color: white;
+  font-size: 18px;
+  margin: 0px 0px 50px 0px;
+  text-align: center;
+  letter-spacing: 4px;
+  position: sticky;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+
+.logos {
+  float: right;
+}
+
+footer{
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
