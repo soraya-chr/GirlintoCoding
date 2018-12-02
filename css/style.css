@@ -34,6 +34,25 @@ a {
   float: right;
 }
 
+.form-submit{
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: black;
+  border: none;
+  border-radius: 15px;
+}
+
+.form-submit:hover {background-color: grey}
+
+
+
+
 footer{
   color: white;
   font-size: 15px;
